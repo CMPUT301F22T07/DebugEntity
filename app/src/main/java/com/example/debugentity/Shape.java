@@ -1,0 +1,6 @@
+package com.example.debugentity;
+
+abstract class Shape {
+    int x;
+    int y;
+}
